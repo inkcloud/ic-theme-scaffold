@@ -1,4 +1,4 @@
-InkCloud Theme Base
+InkCloud Theme Scaffold
 ===================
 
 
@@ -33,7 +33,7 @@ Now if you edit anything in the _assets/js_, _assets/less_ or the _index.html_, 
 
 
 ###Single File Sample
-
+_index.html_ is provided as a sample base
 
 
 

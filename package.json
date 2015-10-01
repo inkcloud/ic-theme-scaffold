@@ -1,5 +1,5 @@
 {
-  "name": "inkcloud-theme-scaffod",
+  "name": "inkcloud-theme-scaffold",
   "version": "0.0.1",
   "description": "Scaffold that can be used to build themes",
   "main": "index.js",
