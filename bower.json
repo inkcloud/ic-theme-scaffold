@@ -1,0 +1,25 @@
+{
+  "name": "inkcloud-theme-scaffod",
+  "version": "0.0.1",
+  "authors": [
+    "Adam Homsi <adam.homsi@gmail.com>"
+  ],
+  "description": "Scaffold that can be used to build themes",
+  "moduleType": [
+    "es6",
+    "globals"
+  ],
+  "license": "2015 InkCloud. All rights reserved",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "font-awesome": "fontawesome#~4.4.0",
+    "jquery": "~2.1.4"
+  }
+}
